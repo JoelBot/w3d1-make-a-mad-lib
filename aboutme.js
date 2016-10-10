@@ -5,7 +5,7 @@ var lastName = 'Lonneker'
 // - Email address
 var email = 'joel.lonneker@gmail.com'
 // - Grew up in the city (as Boolean)
-var isCityFolk = 'false'
+var isCityFolk = false
 // - Number of years in college (as Number)
 var totalCollegeYears = 4
 // - High school graduation year (as Number)
@@ -18,5 +18,6 @@ var childCount = 0
 var favMusicGenre = 'Rock'
 // - Favorite movie
 var favMovie = 'Shaun of the Dead'
+// Adventure time!
 
-console.log(firstName, lastName, email, isCityFolk, totalCollegeYears, highSchoolGraduationYear, petCount, childCount, favMusicGenre, favMovie) 
+console.log(firstName, lastName, email, isCityFolk, totalCollegeYears, highSchoolGraduationYear, petCount, childCount, favMusicGenre, favMovie)
